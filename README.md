@@ -1,2 +1,2 @@
 # HPGP-DB
-하이퍼그룹 데이터 베이스
+Welcome, Here is HyperCoding's DataBase.
